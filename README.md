@@ -28,3 +28,13 @@
 1. ریپازیتوری را کلون کنید:
    ```bash
    git clone https://github.com/USERNAME/react-todo-app.git
+
+2. وارد پوشه شوید 
+cd react-todo-app
+
+3. پکیج ها را نصب کنید
+npm install
+
+4. پروژه را اجرا کنید
+npm run dev
+
